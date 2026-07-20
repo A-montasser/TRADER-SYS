@@ -1,0 +1,3 @@
+symbol,entry_price,exit_price,amount,pnl,pnl_pct,fee,entry_time,exit_time,duration_min,exit_reason,new_balance
+MBL/USDT,0.000694,0.000691,14450.0,-0.043349999999999486,-0.4322766570605152,2.635e-05,2026-07-18 12:32:30.949818,2026-07-18 12:35:02.122702,2.5195480666666668,"emergency exit — observed price deviated 1.5731% above forecast, beyond this forecast's own best-case (1.0328%); locking in unexpected gain outside the model's predicted regime",9.95665
+DODO/USDT,0.02071,0.02069,483.0,-0.009659999999999606,-0.09657170449057784,2.6390000000000003e-05,2026-07-19 12:42:51.204500,2026-07-19 13:10:04.394647,27.219835783333334,"hold-time exceeded — 5 bars elapsed since entry, forecast expected profitability within 4",9.99034
