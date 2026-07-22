@@ -1,0 +1,10 @@
+{
+  "artifact_schema_version": 3,
+  "artifact_id": "98518b60-e7d2-4d82-9781-b922f9280f9c",
+  "generated_at": "2026-07-22T08:22:19.604994",
+  "valid_from": "2026-07-22T08:22:19.604994",
+  "valid_until": "2026-07-22T10:22:19.604994",
+  "engine_reference": "kronos:NeoQuasar/Kronos-base",
+  "pred_len": 120,
+  "timeframe": "1m"
+}
